@@ -22,3 +22,4 @@ The percentage successful was significantly higher than the percentage failed wh
 The total number of plays that have a high goal is small.  
 - What are some other possible tables and/or graphs that we could create?
 A bar graph can display the number of sucessful and failed theater launch dates per month. Pie charts can be used to display the percentages for each goal range.
+![This is an image](![image](https://user-images.githubusercontent.com/109995136/182255600-338297da-e313-41dd-a6c2-3a54faa89782.png)
